@@ -1,6 +1,6 @@
-############ README_2 ############ 
+############ **README_2** ############ 
 
-*Instructions:*
+**Instructions:**
 
 Scripts to generate the four plots are named "plot1.R", "plot2.R", "plot3.R", "plot4.R".
 
@@ -39,7 +39,7 @@ four_plots(data)
 
 
 -----
-*Problem:*
+**Problem:**
 
 There is a problem with the third plot which I have tried for a long time to solve but have been unable to. 
 It looks close to what it is supposed to look like, and I'm certain that I'm reading the correct rows of data,
