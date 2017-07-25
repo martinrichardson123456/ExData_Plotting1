@@ -28,8 +28,11 @@ source("plot4.R")
 Then plots 1-4 can be generated (in a file rather than on screen) via the following commands:
 
 plot_Global_Active_Power_hist(data)
+
 plot_Global_Active_Power_vs_day(data)
+
 plot_Energy_sub_metering_vs_day(data)
+
 four_plots(data)
 
 
@@ -46,5 +49,4 @@ The problem is described more fully here in the discussion forum question I post
 https://www.coursera.org/learn/exploratory-data-analysis/discussions/weeks/1/threads/7S7LSGmgEeeL9AqeWyzK2g
 
 I hope the grading guidelines (found here: https://www.coursera.org/learn/exploratory-data-analysis/peer/ylVFo/course-project-1)
-are enough for marks to not be deduced because of these problems. I believe I've pretty much fulfilled the requirements,
-aside from being able to tackle this weird bug.
+indicate that I've done enough for marks to not be deduced because of these problems. I believe I've pretty much fulfilled the requirements, aside from being able to tackle this weird bug.
