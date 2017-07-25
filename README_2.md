@@ -1,19 +1,28 @@
 ################################
 
 Scripts to generate the four plots are named "plot1.R", "plot2.R", "plot3.R", "plot4.R".
+
 The plots themselves are found in "plot1.png", "plot2.png", "plot3.png", "plot4.png".
 
 -----
 Before running each script it is first necessary to execute the following commands:
 
 setwd(".../<path to directory where ExData_Plotting1-master.zip is unzipped and 'plot1/2/3/4.R' are>")
+
 library(dplyr)
+
 library(lubridate)
+
 data <- read.table("./exdata_data_household_power_consumption/household_power_consumption.txt", sep = ";")
+
 source("plot1.R")
+
 source("plot2.R")
+
 source("plot3.R")
+
 source("plot4.R")
+
 
 -----
 Then plots 1-4 can be generated (in a file rather than on screen) via the following commands:
