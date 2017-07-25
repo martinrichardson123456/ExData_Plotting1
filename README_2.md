@@ -37,6 +37,8 @@ four_plots(data)
 
 
 -----
+Problem:
+
 There is a problem with the third plot which I have tried for a long time to solve but have been unable to. 
 It looks close to what it is supposed to look like, and I'm certain that I'm reading the correct rows of data,
 but for some reason, when the plot is generated, these random spikes appear that are not present either in the 
