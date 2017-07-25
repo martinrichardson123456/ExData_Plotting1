@@ -1,4 +1,4 @@
-################################
+############ README_2 ############ 
 
 Scripts to generate the four plots are named "plot1.R", "plot2.R", "plot3.R", "plot4.R".
 
